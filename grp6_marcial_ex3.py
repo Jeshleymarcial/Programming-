@@ -23,7 +23,7 @@ a, b, c= 2, 4, 6
 
 
 #One Values to Multiple Variables
-a, b, c= 10
+a=b=c= 10
 
 
 
